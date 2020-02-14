@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: Sissi Blog
 SEOTitle: Sissi的博客 | Sissi Blog
 header-img: img/post-bg-desk.jpg
 email: 874470346@qq.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/missmisslonely/missmisslonely.github.io.git" # 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "林深时见鹿，海蓝时见鲸，梦醒时见你"
 sidebar-avatar: /img/sissi-img.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

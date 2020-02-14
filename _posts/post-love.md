@@ -1,4 +1,12 @@
-<img src="/Users/missli/Desktop/博客/github.io/img/post1-bg.jpeg" style="transform:rotate(90deg);">
+---
+layout:     post
+title:      恋爱计时器
+subtitle:   
+date:       2020-02-14
+author:     Sissi
+header-img: img/post1-img-love.jpg
+catalog: true
+---
 
 <body>
     <div class="content">
@@ -33,6 +41,6 @@
         timer();
         setInterval(timer, 1000);
     </script>
-   
 
 </body>
+<img src="img/post1-bg.jpeg" style="transform:rotate(90deg);">
